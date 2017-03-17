@@ -1,0 +1,25 @@
+#fon
+{
+	width:800px;
+	height:100%;
+	margin:0px auto;
+}
+#shapka
+{
+	width:800px;
+	height:320px;
+	background-image:url(shapka.png);
+}	
+#content
+{
+	width:800px;
+	height:100%;
+	
+}
+#LA
+{
+	width:200px;
+	height:200px;
+	float:left;
+	
+}
